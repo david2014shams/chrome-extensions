@@ -1,0 +1,10 @@
+{
+    "manifest_version": 2,
+    "name": "trace",
+    "version": "1.0",
+    "description": "First chrome extension",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "ual-icon.png"
+    }
+}
